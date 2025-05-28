@@ -67,24 +67,5 @@ A feature-rich **chess clock** built using an **ESP32**, **LCD screen (I2C)**, a
      - Inactive side can turn off the display to simulate a pause.
 
 ---
-
-## 📷 Optional Enhancements
-
-- Add a buzzer for turn or timeout alerts.
-- Use LEDs to indicate turn.
-- Add a settings menu for custom time entry.
-
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).  
-Feel free to use, modify, and share.
-
----
-
-## ✍️ Author
-
-Made by **[Your Name Here]**  
-Enjoy the game and keep playing fair!
+Made by **Cody Laurie**  
 
